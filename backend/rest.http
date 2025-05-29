@@ -1,0 +1,8 @@
+
+#######
+POST http://localhost:5000/auth/google
+accept: application/json
+
+{
+    "code": "4/0AUJR-x5hxWW5zhx_CW2I4C2liG6JVslXoBiG7pD38UUNCmiUv8xa2ca5wuJ_tfiCV8Z7NQ"
+}

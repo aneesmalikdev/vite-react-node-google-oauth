@@ -1,0 +1,16 @@
+# Explicit format
+frontend/node_modules/
+backend/node_modules/
+frontend/.env
+backend/.env
+
+# Plus other general ignores
+.env
+*.env
+node_modules/
+dist/
+build/
+.DS_Store
+.vscode/
+.idea/
+*.log

@@ -1,6 +1,4 @@
-# Google OAuth Login with Node.js and React
-
-![Google OAuth Flow](google-oauth-flow.png)
+# Google OAuth Login with Node.js and React (Vite)
 
 This project demonstrates a secure Google OAuth login implementation using Node.js backend and React frontend. It features the redirect flow for authentication, JWT token generation for session management, and user profile display.
 
